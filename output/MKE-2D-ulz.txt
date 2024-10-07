@@ -1,0 +1,78 @@
+
+ === Izlazni podaci ===
+
+
+Broj cvorova : 6
+
+Broj stapova : 5
+
+Broj karakteristika : 5
+
+Broj opterecenih cvorova : 3
+
+Broj sprecenih pomeranja : 3
+
+
+
+
+Koordinate cvorova
+
+Cvor 	x 	y
+
+0:	5	4
+1:	10	4
+2:	13	4
+3:	2	4
+4:	2	2
+5:	3	1
+
+
+
+
+Prikaz definicije stapova
+
+Stap   Cvor   Cvor 	Osobine
+
+0	0	1	0
+1	1	2	0
+2	0	3	0
+3	3	4	0
+4	4	5	0
+
+
+
+
+Prikaz karakteristika stapova
+
+ Stap 	E	 A	I
+
+0	1	1	1
+1	2	2	2
+2	3	3	3
+3	4	4	4
+4	5	5	5
+
+
+
+
+Prikaz opterecenja po cvorovima
+
+1	-70.7107	70.7107
+3	70.7107	70.7107
+4	0	100
+
+ Cvor 	 intenzitet-M 	 smer-M
+
+0	101		-1
+0	101		1
+
+
+
+
+Prikaz sprecenih pomeranja
+
+Cvor Pomeranje-X Pomeranje-Y
+
+
+0	1		0
+1	0		0
